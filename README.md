@@ -25,5 +25,6 @@ Redes Sociais:
   <a href="https://www.instagram.com/_eufelix2?igsh=NDR6aHJqOTBoNnhm&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"/>    </a>
   <br>
   <br>
+
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22)](https://github.com/anuraghazra/github-readme-stats)
