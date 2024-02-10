@@ -1,5 +1,8 @@
 ### Seja bem-vindo ao meu perfil 👋
 
+:computer: Cursando técnico na DEVCLUB de desenvolvedor FULLSTACK. :computer:
+<br>
+<br>
 Desenvolvedor front end Junior, atualmente estou aprendendo e criando projetos com: 
 <br>
 <br>
@@ -17,13 +20,10 @@ Iniciando também com:
 Redes Sociais:
 <br>
 <br>
-  <a href="https://www.linkedin.com/in/gabriel-felix-b95b7122a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
-  <a href="https://www.instagram.com/_eufelix2?igsh=NDR6aHJqOTBoNnhm&utm_source=qr" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-felix-b95b7122a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+  <a href="https://www.instagram.com/_eufelix2?igsh=NDR6aHJqOTBoNnhm&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"/>    </a>
 <br>
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-<br>
-:computer: Cursando técnico na DEVCLUB de desenvolvedor FULLSTACK. :computer:
+
