@@ -16,19 +16,9 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-🌱 **Estudando atualmente:**  
-- TypeScript  
-- Next.js  
-- Express.js  
-- APIs RESTful  
-
 📫 **Redes Sociais:**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com)
 
-📊 **Most Used Languages:**  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-36.08%25-yellow)  
-![HTML](https://img.shields.io/badge/-HTML-32.54%25-orange)  
-![CSS](https://img.shields.io/badge/-CSS-31.38%25-blue)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22)](https://github.com/anuraghazra/github-readme-stats)
