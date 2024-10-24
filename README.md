@@ -27,4 +27,5 @@ Principais tecnologias utilizadas:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22)](https://github.com/GabrielFelix22/github-readme-stats)
