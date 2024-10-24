@@ -1,30 +1,34 @@
-### Seja bem-vindo ao meu perfil 👋
-<br>
-<br>
-:computer: Cursando técnico na DEVCLUB de desenvolvedor FULLSTACK. :computer:
-<br>
-<br>
-Desenvolvedor front end Junior, atualmente estou aprendendo e criando projetos com: 
-<br>
-<br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" />
-<br>
-<br>
-Iniciando também com:
-<br>
-<br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node" />
-<br>
-<br>
-Redes Sociais:
-<br>
-<br>
-  <a href="https://www.linkedin.com/in/gabriel-felix-b95b7122a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
-  <a href="https://www.instagram.com/_eufelix2?igsh=NDR6aHJqOTBoNnhm&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta"/>    </a>
-  <br>
-  <br>
+### 👋 Seja bem-vindo ao meu perfil!
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22)](https://github.com/anuraghazra/github-readme-stats)
+🎓 **Cursando técnico na DEVCLUB de desenvolvedor FULLSTACK.**  
+💻 Desenvolvedor front-end Junior, atualmente aprendendo e criando projetos com:
+
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
+🚀 **Iniciando também com:**
+
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/docs/)  
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)  
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+🌱 **Estudando atualmente:**  
+- TypeScript  
+- Next.js  
+- Express.js  
+- APIs RESTful  
+
+📫 **Redes Sociais:**
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com)
+
+📊 **Most Used Languages:**  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-36.08%25-yellow)  
+![HTML](https://img.shields.io/badge/-HTML-32.54%25-orange)  
+![CSS](https://img.shields.io/badge/-CSS-31.38%25-blue)  
