@@ -1,7 +1,7 @@
 ### 👋 Seja bem-vindo ao meu perfil!
 
 🎓 **Cursando técnico na DEVCLUB de desenvolvedor FULLSTACK.**  
-💻 Desenvolvedor front-end Junior, atualmente aprendendo e criando projetos com:
+💻 Desenvolvedor fullstack Junior:
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
