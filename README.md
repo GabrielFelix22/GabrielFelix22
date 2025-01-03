@@ -31,13 +31,13 @@ Olá! Sou Gabriel Felix, um desenvolvedor Fullstack apaixonado por tecnologia e 
 
 ## 📌 Projetos Principais
 
-### 💻 [Projeto 1: Nome do Projeto](https://github.com/SeuUsuario/Projeto1)
-- **Descrição:** Uma aplicação incrível que resolve XYZ.
-- **Tecnologias usadas:** React, Node.js, MongoDB.
+### 💻 [Projeto 1: DevBurger Front-end]([https://github.com/SeuUsuario/Projeto1](https://github.com/GabrielFelix22/devburger-interface))
+- **Descrição:** Um software para lanchonete e hamburgueria. Podendo adaptar para outros fins também.
+- **Tecnologias usadas:** React, Vite, NPM, Styled Components, Hooks, React Toastify.
 
-### 🌐 [Projeto 2: Nome do Projeto](https://github.com/SeuUsuario/Projeto2)
-- **Descrição:** Um projeto para melhorar XYZ.
-- **Tecnologias usadas:** HTML, CSS, JavaScript.
+### 🌐 [Projeto 2: DevBurger Back-end](https://github.com/GabrielFelix22/devburger)
+- **Descrição:** Um software para lanchonete e hamburgueria. Podendo adaptar para outros fins também.
+- **Tecnologias usadas:** Yarn, Nodemon, Sucrase, Arquitetura MVC (Model, View, Controller), Docker, SQL e ORM (Sequelize), Validação com Yup, Multer, JWT (JSON Web Token), MongoDB, Mongoose Schema e Stripe
 
 ---
 
@@ -52,8 +52,8 @@ Olá! Sou Gabriel Felix, um desenvolvedor Fullstack apaixonado por tecnologia e 
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felix2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eufelix2/)
 
 ---
 
