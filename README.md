@@ -31,7 +31,7 @@ Olá! Sou Gabriel Felix, um desenvolvedor Fullstack apaixonado por tecnologia e 
 
 ## 📌 Projetos Principais
 
-### 💻 [Projeto 1: DevBurger Front-end]([https://github.com/SeuUsuario/Projeto1](https://github.com/GabrielFelix22/devburger-interface)
+### 💻 [Projeto 1: DevBurger Front-end](https://github.com/GabrielFelix22/devburger-interface)
 - **Descrição:** Um software para lanchonete e hamburgueria. Podendo adaptar para outros fins também.
 - **Tecnologias usadas:** React, Vite, NPM, Styled Components, Hooks, React Toastify.
 
