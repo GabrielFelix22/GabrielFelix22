@@ -4,7 +4,7 @@ Olá! Sou Gabriel Felix, um desenvolvedor Fullstack apaixonado por tecnologia e 
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 Estudante do curso técnico em Desenvolvimento Fullstack na **DEVCLUB**;
+- 🎓 Formado em Desenvolvimento Fullstack na **DEVCLUB**;
 - 🌐 Foco em criar aplicações web responsivas e otimizadas;
 - 🛠️ Experiência com **projetos que envolvem design eficiente** e **usabilidade aprimorada**;
 - 💡 Interesse em **boas práticas de código**, **clean code** e **desenvolvimento ágil**.
