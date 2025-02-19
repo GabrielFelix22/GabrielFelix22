@@ -92,6 +92,4 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
   
 ### 💡 "O código é como poesia - quanto mais limpo, mais bonito."
 
-![Snake animation](https://github.com/GabrielFelix22/GabrielFelix22/blob/output/github-contribution-grid-snake.svg)
-
 </div>
