@@ -103,8 +103,8 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Felix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felix2/)
 [![Instagram](https://img.shields.io/badge/Instagram-@__eufelix2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eufelix2/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemailaqui@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.alves2208@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://seu-portfolio.com](https://portfolio-gabriel-felix.vercel.app/))
 
 </div>
 
