@@ -104,22 +104,21 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFelix22&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFelix22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=8&theme=dracula&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula&border_radius=10&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=15&card_width=320"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=8&theme=dracula&border_radius=15&card_width=320"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula&border_radius=15"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true"/>
 </div>
 
 ## 🧠 Frameworks e Tecnologias Frequentes
