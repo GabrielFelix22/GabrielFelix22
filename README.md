@@ -103,6 +103,22 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## 🧠 Frameworks e Tecnologias Frequentes
+
+<div align="center">
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+  ![Yup](https://img.shields.io/badge/Yup-4A4A55?style=for-the-badge&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
+
+
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula"/>
 </div>
