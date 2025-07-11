@@ -99,8 +99,20 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
 ## 📈 Métricas e Contribuições
 
 <div align="center">
+  <img src="https://metrics.lecoq.io/GabrielFelix22?template=classic&reactions=1&reactions.limit=200&reactions.days=365&reactions.display=absolute&config.timezone=America%2FSao_Paulo"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/GabrielFelix22?template=classic&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=America%2FSao_Paulo"/>
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/GabrielFelix22?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&reactions=1&reactions.limit=200&reactions.days=365&reactions.display=absolute&config.timezone=America%2FSao_Paulo"/>
 </div>
 
 ## 🧠 Frameworks e Tecnologias Frequentes
