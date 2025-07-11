@@ -118,11 +118,6 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
 
 </div>
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula"/>
-</div>
-
 ## 🤝 Vamos Conectar!
 
 <div align="center">
