@@ -34,7 +34,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar experiências digitais excep
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-**![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -116,7 +116,7 @@ Desenvolvido para apresentar meus projetos e habilidades de forma profissional e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Felix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felix2/)
 [![Instagram](https://img.shields.io/badge/Instagram-@__eufelix2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eufelix2/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.alves2208@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-gabriel-felix.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Badge-Acessar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-gabriel-felix.vercel.app/)
 
 </div>
 
