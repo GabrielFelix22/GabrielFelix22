@@ -1,13 +1,13 @@
 <div align="center">
-  
+  
 # Gabriel Felix
 ### Desenvolvedor Fullstack | React | Node.js | PostgreSQL | JavaScript
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo(a)!;Eu+sou+o+Gabriel+Felix;Desenvolvedor+Fullstack;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielFelix22&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/GabrielFelix22?style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20projetos-success" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=GabrielFelix22&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/GabrielFelix22?style=social" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20projetos-success" alt="Status" />
 </p>
 </div>
 
@@ -65,7 +65,7 @@ Sou um desenvolvedor Fullstack apaixonado por criar experiências digitais excep
 ## 🏆 Projetos em Destaque
 
 <div align="center">
-  
+  
 [![DevBurger Frontend Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielFelix22&repo=devburger-interface&theme=dracula)](https://github.com/GabrielFelix22/devburger-interface)
 [![DevBurger Backend Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielFelix22&repo=devburger&theme=dracula)](https://github.com/GabrielFelix22/devburger)
 
@@ -99,40 +99,17 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
 ## 📈 Métricas e Contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-## 🧠 Frameworks e Tecnologias Frequentes
 
 <div align="center">
-
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-  ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-  ![Yup](https://img.shields.io/badge/Yup-4A4A55?style=for-the-badge&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFelix22&theme=dracula"/>
 </div>
-
-## 🤝 Vamos Conectar!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Felix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felix2/)
-[![Instagram](https://img.shields.io/badge/Instagram-@__eufelix2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eufelix2/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.alves2208@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-gabriel-felix.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "O código é como poesia - quanto mais limpo, mais bonito e mais valor entrega."
-
-</div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="223" class="">
+        <defs>
+            <style/>
+        </defs>
+        <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;
