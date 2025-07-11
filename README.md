@@ -99,6 +99,10 @@ Um software completo para gerenciamento de pedidos e cardápio, desenvolvido com
 ## 📈 Métricas e Contribuições
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFelix22&theme=dracula&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelix22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelix22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
