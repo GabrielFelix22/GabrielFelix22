@@ -1,7 +1,7 @@
 <div align="center">
   
 # Gabriel Felix
-### Desenvolvedor Fullstack | React | Node.js | PostgreSQL | JavaScript
+### Desenvolvedor Fullstack | React | NextJS | Node.js | PostgreSQL | JavaScript
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo(a)!;Eu+sou+o+Gabriel+Felix;Desenvolvedor+Fullstack;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
